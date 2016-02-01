@@ -1,0 +1,70 @@
+.top-line{
+	background:#c4defd;
+}
+
+.footer{
+	background:#2C3E50;
+}
+
+.test{
+    width: 78px;
+    background: url(images/Layer-13.png);
+}
+a.all-vendor {
+    border-bottom: 1px dotted #08C;
+}
+
+a.all-vendor:hover, a.all-vendor:active{
+    text-decoration: none;
+}
+
+.table thead th {
+    background-color: #656565;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 0 10px;
+    color: #FFF;
+    text-shadow: #414141 0 1px 0px;
+    line-height: 40px;
+    text-align: center;
+}
+
+
+th.all-vendor-head {
+    min-width: 130px;
+}
+
+.icon-chevron-up,
+.icon-chevron-down{
+    margin-left: 5px;
+}
+
+.table {
+    min-width:850px; 
+}
+
+.table td:first-child{
+    text-align: center;
+}
+
+.form-search {
+    margin: 30px 0 10px;
+}
+
+.nav {
+    margin-top: 30px;
+}
+
+.tab-pane p{
+    margin-top: 25px;
+}
+
+
+
+.nav-stacked {
+    margin-top: 0;
+}
+
+.add-param {
+    margin-bottom: 10px;
+}
